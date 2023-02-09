@@ -15,6 +15,35 @@ Explicar y resolver los problemas presentados en los capítulos trece y catorce 
 - Entender los componentes de un transformador y la utilización del mismo.
 
 # MARCO TEORICO
+ca-13 resumen
+
+◆ La inductancia es una medida de la capacidad de una bobina para establecer voltaje inducido como resultado de un cambio en su corriente.
+
+◆ Un inductor se opone al cambio de su propia corriente.
+
+◆ La ley de Faraday establece que el movimiento relativo entre un campo magnético y una bobina induce
+cierto voltaje en la bobina.
+
+◆ La cantidad de voltaje inducido es directamente proporcional a la inductancia y a la rapidez de cambioen la corriente.
+
+◆ La ley de Lenz establece que la polaridad del voltaje inducido es tal que la corriente inducida resultante fluye en una dirección que se opone al cambio del campo magnético que la produjo.
+
+◆ Un inductor guarda energía en su campo magnético.
+
+◆ Un henry es la cantidad de inductancia cuando la corriente, que cambia a razón de un ampere por segundo, induce un volt en el inductor.
+
+ca-14 resumen
+
+◆ Existe inductancia mutua entre dos bobinas acopladas magnéticamente.
+
+◆ Cuando cambia la corriente en una bobina, se induce voltaje en la otra bobina.
+
+◆ El primario es el devanado conectado a la fuente, y el secundario es el devanado conectado a la carga.
+
+◆ El número de vueltas en el primario y el número de vueltas en el secundario determinan la relación de vueltas.
+
+◆ Las polaridades relativas de los voltajes primario y secundario son determinadas por la dirección de los devanados alrededor del núcleo.
+
 
 # RESOLUCION DE EJERCICIOS O PROBLEMAS
 
